@@ -8,3 +8,4 @@ practice javascript
   - [practice2](practice/js_practice02.md)
   - [array_helper_methods](practice/Array_helper_methods.md)
   - [star](practice/js_star.md)
+  - [palindrome](practice/js_palindrome.md)
