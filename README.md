@@ -10,3 +10,4 @@ practice javascript
   - [star](practice/js_star.md)
   - [palindrome](practice/js_palindrome.md)
   - [movie_info_get](practice/js_movie_info_get.md)
+  - [new_star](practice/js_new_star.md)
