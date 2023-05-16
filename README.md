@@ -11,3 +11,4 @@ practice javascript
   - [palindrome](practice/js_palindrome.md)
   - [movie_info_get](practice/js_movie_info_get.md)
   - [new_star](practice/js_new_star.md)
+  - [js_swea_electric_bus](practice/js_swea_electric_bus.md)
