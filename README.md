@@ -12,3 +12,4 @@ practice javascript
   - [movie_info_get](practice/js_movie_info_get.md)
   - [new_star](practice/js_new_star.md)
   - [js_swea_electric_bus](practice/js_swea_electric_bus.md)
+  - [js_rock_scissor_paper](practice/js_rock_scissor_paper.md)
