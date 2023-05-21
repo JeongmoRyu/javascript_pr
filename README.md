@@ -13,3 +13,4 @@ practice javascript
   - [new_star](practice/js_new_star.md)
   - [js_swea_electric_bus](practice/js_swea_electric_bus.md)
   - [js_rock_scissor_paper](practice/js_rock_scissor_paper.md)
+  - [js_list_prac](practice/js_list_practice.md)
