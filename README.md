@@ -14,3 +14,4 @@ practice javascript
   - [js_swea_electric_bus](practice/js_swea_electric_bus.md)
   - [js_rock_scissor_paper](practice/js_rock_scissor_paper.md)
   - [js_list_prac](practice/js_list_practice.md)
+  - [js_refactoring](practice/js_refactoring.md)
