@@ -16,3 +16,4 @@ practice javascript
   - [js_list_prac](practice/js_list_practice.md)
   - [js_refactoring](practice/js_refactoring.md)
   - [js_atag_block](practice/js_atag_block.md)
+  - [js_prac_setattribute&getelement](practice/js_prac_setattribute&getelement.md)
