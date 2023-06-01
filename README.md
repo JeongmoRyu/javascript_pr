@@ -18,4 +18,6 @@ practice javascript
   - [js_atag_block](practice/js_atag_block.md)
   - [js_prac_setattribute&getelement](practice/js_prac_setattribute&getelement.md)
   - [js_button](practice/js_button.md)
+  - [js_axios](practice/js_axios.md)
+
 
