@@ -19,5 +19,6 @@ practice javascript
   - [js_prac_setattribute&getelement](practice/js_prac_setattribute&getelement.md)
   - [js_button](practice/js_button.md)
   - [js_axios](practice/js_axios.md)
+  - [js_axios_cat&dog](practice/js_axios_cat&dog.md)
 
 
