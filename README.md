@@ -20,5 +20,6 @@ practice javascript
   - [js_button](practice/js_button.md)
   - [js_axios](practice/js_axios.md)
   - [js_axios_cat&dog](practice/js_axios_cat&dog.md)
+  - [js_change_color_switch](practice/js_change_color_switch.md)
 
 
