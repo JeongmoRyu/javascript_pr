@@ -22,6 +22,7 @@ practice javascript
   - [js_axios_cat&dog](practice/js_axios_cat&dog.md)
   - [js_change_color_switch](practice/js_change_color_switch.md)
   - [js_promise](practice/js_promise.md)
+  - [js_rest_operation](practice/js_rest_operation.md)
 
 
 
