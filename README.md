@@ -23,6 +23,7 @@ practice javascript
   - [js_change_color_switch](practice/js_change_color_switch.md)
   - [js_promise](practice/js_promise.md)
   - [js_rest_operation](practice/js_rest_operation.md)
+  - [js_snake_game](practice/js_snake_game.md)
 
 
 
