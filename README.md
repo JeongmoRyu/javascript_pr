@@ -24,6 +24,7 @@ practice javascript
   - [js_promise](practice/js_promise.md)
   - [js_rest_operation](practice/js_rest_operation.md)
   - [js_snake_game](practice/js_snake_game.md)
+  - [js_n_queen](practice/js_n_queen.md)
 
 
 
