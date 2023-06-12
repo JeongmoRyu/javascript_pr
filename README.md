@@ -27,6 +27,7 @@ practice javascript
   - [js_n_queen](practice/js_n_queen.md)
   - [js_addevent_mouse](practice/js_addevent_mouse.md)
   - [js_todolist](practice/js_todolist.md)
+  - [js_click_button](practice/js_click_button.md)
 
 
 
